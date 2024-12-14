@@ -29,7 +29,7 @@ I am a second year PhD student at City University of Hong Kong under the supervi
 
 - [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](https://arxiv.org/pdf/2407.10112), Yaqing Wang, **Hongming Piao**, Daxiang Dong, Quanming Yao, Jingbo Zhou, **KDD 2024**
 - [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB), **Hongming Piao^**, Yichen Wu^, Dapeng Wu, Ying Wei, **ICML 2024**
-- [MtCut: A Multi-Task Framework for Ranked List Truncation](https://dl.acm.org/doi/abs/10.1145/3488560.3498466), Dong Wang, Jianxin Li, Tianchen Zhu, Haoyi Zhou, Qishan Zhu, Yuxin Wen, Hongming Piao, **WSDM 2022**
+- [MtCut: A Multi-Task Framework for Ranked List Truncation](https://dl.acm.org/doi/abs/10.1145/3488560.3498466), Dong Wang, Jianxin Li, Tianchen Zhu, Haoyi Zhou, Qishan Zhu, Yuxin Wen, **Hongming Piao**, **WSDM 2022**
 
 # 🎖 Honors and Awards
 - *2024.06* ICML Travel Award. 
