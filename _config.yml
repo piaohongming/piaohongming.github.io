@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "PIAO Hongming"
 description              : "I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning and federated learning. I have published three papers at the top international conferences (e.g., ICML, KDD)."
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "piaohongming/piaohongming.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "PIAO Hongming"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "City University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=_shIrtAAAAAJ"
+  email            : "piaohongming02@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
