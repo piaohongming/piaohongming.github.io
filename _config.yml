@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "PIAO Hongming"
+description              : "I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning and federated learning. I have published three papers at the top international conferences (e.g., ICML, KDD)."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
