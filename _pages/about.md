@@ -20,10 +20,10 @@ redirect_from:
 I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning and federated learning in foundation models. I have published three papers at the top international conferences (e.g., ICML, KDD) with total <a href='https://scholar.google.com/citations?user=_shIrtAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 Happy to receive Research Tuition Scholarship!
+- *2024.06*: &nbsp;🎉🎉 Happy to receive the ICML Travel Award (2024)!
 - *2024.05*: &nbsp;🎉🎉 Our paper [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](https://arxiv.org/pdf/2407.10112) is accepted by KDD 2024. 
 - *2024.05*: &nbsp;🎉🎉 Our paper [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB) is accepted by ICML 2024.
-- *2024.06*: &nbsp;🎉🎉 Happy to receive the ICML Travel Award (2024)!
-- *2024.09*: &nbsp;🎉🎉 Happy to receive Research Tuition Scholarship!
 
 # 📝 Publications 
 
@@ -40,4 +40,4 @@ I am a second year PhD student at City University of Hong Kong under the supervi
 - *2019.09 - 2023.06*, Undergraduate, Computer Science, Beihang University. 
 
 # 💻 Internships
-- *2022.08 - 2023.05*, Baidu Research, China.
+- *2022.08 - 2023.05*, Baidu Research, supervised by Dr. Yaqing Wang.
