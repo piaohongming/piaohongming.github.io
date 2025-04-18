@@ -20,6 +20,7 @@ redirect_from:
 I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning and federated learning in foundation models. I have published three papers at the top international conferences (e.g., ICML, KDD) with total <a href='https://scholar.google.com/citations?user=_shIrtAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 Our paper [SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning](https://openreview.net/forum?id=5U1rlpX68A) is accepted by ICLR 2025 oral.
 - *2024.09*: &nbsp;🎉🎉 Happy to receive Research Tuition Scholarship!
 - *2024.06*: &nbsp;🎉🎉 Happy to receive the ICML Travel Award (2024)!
 - *2024.05*: &nbsp;🎉🎉 Our paper [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](https://arxiv.org/pdf/2407.10112) is accepted by KDD 2024. 
@@ -27,6 +28,7 @@ I am a second year PhD student at City University of Hong Kong under the supervi
 
 # 📝 Publications 
 
+- [SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning](https://openreview.net/forum?id=5U1rlpX68A), Yichen Wu^, **Hongming Piao^**, Long-Kai Huang, Renzhen Wang, Wanhua Li, Hanspeter Pfister, Deyu Meng, Kede Ma, Ying Wei, **ICLR 2025 oral**
 - [Warming Up Cold-Start CTR Prediction by Learning Item-Specific Feature Interactions](https://arxiv.org/pdf/2407.10112), Yaqing Wang, **Hongming Piao**, Daxiang Dong, Quanming Yao, Jingbo Zhou, **KDD 2024**
 - [Federated Continual Learning via Prompt-based Dual Knowledge Transfer](https://openreview.net/pdf?id=Kqa5JakTjB), **Hongming Piao^**, Yichen Wu^, Dapeng Wu, Ying Wei, **ICML 2024**
 - [MtCut: A Multi-Task Framework for Ranked List Truncation](https://dl.acm.org/doi/abs/10.1145/3488560.3498466), Dong Wang, Jianxin Li, Tianchen Zhu, Haoyi Zhou, Qishan Zhu, Yuxin Wen, **Hongming Piao**, **WSDM 2022**
