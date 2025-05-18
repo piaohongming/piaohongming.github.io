@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning for multi-agent systems. I have published three papers at the top international conferences (e.g., ICML, KDD) with total <a href='https://scholar.google.com/citations?user=_shIrtAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I am a second year PhD student at City University of Hong Kong under the supervision of Prof. Ying Wei and Prof. Dapeng Oliver Wu. I received my Bachelor degree in Beihang University (2019-2023). I am now working on continual learning. I have published three papers at the top international conferences (e.g., ICML, KDD) with total <a href='https://scholar.google.com/citations?user=_shIrtAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Our paper [SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning](https://openreview.net/forum?id=5U1rlpX68A) is accepted by ICLR 2025 oral.
